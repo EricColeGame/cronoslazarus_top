@@ -1,0 +1,129 @@
+export const metadata = {
+  title: "Configuration requise de Cronos Lazarus : votre PC peut-il faire tourner le nouveau DLC ?",
+  description: "Configuration requise de Cronos Lazarus expliquée : les spécifications PC exactes dont vous avez besoin, ce que signifie chaque élément et des conseils de mise à niveau avant le lancement du 3 décembre.",
+  category: "guide",
+  date: "2026-10-29",
+}
+
+Le Protocole Lazarus se débloque le 3 décembre 2026, et si vous comptez retourner dans les terres désolées de New Dawn en tant que Warden, la première chose à vérifier est de savoir si votre machine peut réellement le supporter. La **configuration requise de Cronos Lazarus** semble modeste sur le papier, mais elle cache quelques pièges — surtout du côté de la carte graphique. Vous trouverez ci-dessous la liste officielle complète de la **configuration requise de Cronos Lazarus**, une explication en langage clair de ce que chaque composant signifie réellement, et des conseils pratiques de mise à niveau pour ne pas devoir improviser le jour du lancement.
+
+## La configuration requise de Cronos Lazarus en un coup d'œil
+
+Cronos: Lazarus est une extension payante pour Cronos: The New Dawn, et sa fiche Steam ne publie actuellement qu'un seul palier de configuration minimale. Voici la liste officielle complète, exactement telle qu'elle est publiée :
+
+| Composant | Configuration minimale |
+|---|---|
+| **Système d'exploitation** | Windows 10 x64 |
+| **Processeur** | Intel Core i5-8400F, Intel Core i5-8600K ou AMD Ryzen 5 3600 |
+| **Mémoire** | 16 Go de RAM |
+| **Carte graphique** | NVIDIA GeForce GTX 1080, AMD Radeon RX 5700-XT ou Intel Arc A770 |
+| **DirectX** | Version 12 |
+| **Stockage** | 30 Go d'espace disponible |
+| **Carte son** | Périphérique audio compatible Windows |
+
+Quelques éléments sautent immédiatement aux yeux. Premièrement, aucun palier « Recommandé » n'est encore listé — uniquement les minimums. Deuxièmement, le GPU minimum est inhabituellement élevé pour un minimum. Une GTX 1080 était une carte haut de gamme en 2016, et l'exiger comme plancher signifie que le DLC cible une machine plutôt moderne, même aux réglages les plus bas.
+
+À noter également : il s'agit d'une extension téléchargeable, vous devez donc avoir **Cronos: The New Dawn** installé pour y jouer. Les 30 Go correspondent à l'empreinte du DLC lui-même, et non au jeu de base.
+
+## Chaque spécification expliquée simplement
+
+Connaître la configuration requise de Cronos Lazarus ne fait que la moitié du travail — la partie utile consiste à comprendre ce que chaque ligne vous dit réellement de votre machine.
+
+### Processeur : six cœurs, le minimum requis
+
+Les trois processeurs listés sont des puces à six cœurs de l'ère 2017–2019. Le Ryzen 5 3600 dispose du SMT (12 threads), tandis que les deux options Intel sont des modèles six cœurs / six threads. À retenir : un processeur moderne à six cœurs constitue la base, et les anciens processeurs gaming à quatre cœurs sont le goulot d'étranglement le plus probable.
+
+| Processeur listé | Cœurs / Threads | Époque de lancement |
+|---|---|---|
+| Intel Core i5-8400F | 6 / 6 | 2018 |
+| Intel Core i5-8600K | 6 / 6 | 2017 |
+| AMD Ryzen 5 3600 | 6 / 12 | 2019 |
+
+Si vous utilisez un Ryzen 5 2600, un i5-7600K ou plus ancien, attendez-vous à le ressentir — le style de combat plus rapide et plus agressif du Warden signifie plus d'ennemis à l'écran et davantage de séquences physiques que le rythme plus posé du jeu de base.
+
+### Mémoire : 16 Go sont désormais le point d'entrée
+
+Seize gigaoctets sont indiqués comme minimum, et non comme recommandation. C'est un changement notable par rapport à il y a quelques années, où 16 Go était la cible confortable et 8 Go le plancher. Si vous êtes encore à 8 Go, c'est la mise à niveau la moins chère et la plus impactante que vous puissiez faire avant décembre.
+
+### Carte graphique : le véritable gardien
+
+Les trois GPU listés appartiennent à une classe de performance similaire et sont tous livrés avec au moins 8 Go de VRAM dans leur configuration standard :
+
+| GPU listé | Architecture | VRAM typique | Ce que cela indique |
+|---|---|---|---|
+| GeForce GTX 1080 | Pascal (2016) | 8 Go | Ancien fleuron encore performant au-delà de sa catégorie |
+| Radeon RX 5700-XT | RDNA 1 (2019) | 8 Go | Solide carte de classe 1440p de la dernière génération de consoles |
+| Intel Arc A770 | Alchemist (2022) | 8 Go ou 16 Go | Option moderne du milieu de gamme avec un fort support de DX12 |
+
+Deux conclusions découlent de ce tableau. Premièrement, 8 Go de VRAM constituent effectivement le plancher — les cartes dotées de 4 Go ou 6 Go vont peiner, quelle que soit leur puissance brute. Deuxièmement, la présence de l'Arc A770 sur une liste officielle de minimums est bon signe : les développeurs testent correctement les fonctionnalités DX12 Ultimate, et pas seulement le matériel NVIDIA plus ancien.
+
+### Système d'exploitation, DirectX et stockage
+
+Windows 10 x64 est le système d'exploitation indiqué. Windows 11 prend en charge le même jeu de fonctionnalités DirectX 12 et fonctionnera presque certainement, même si la page du magasin ne le précise pas explicitement. L'exigence DirectX 12 implique de disposer de pilotes GPU à jour — surtout sur Arc, où la maturité des pilotes compte bien plus que sur GeForce ou Radeon.
+
+Les 30 Go de stockage concernent uniquement le DLC. Ajoutez-y l'installation du jeu de base, et prévoyez une marge confortable pour les caches de compilation de shaders et les correctifs.
+
+## Votre PC fera-t-il tourner Cronos Lazarus ? Auto-évaluation rapide
+
+Utilisez ce tableau pour vérifier rapidement votre configuration actuelle au regard de la configuration requise de Cronos Lazarus avant de dépenser quoi que ce soit.
+
+| Votre configuration actuelle | Verdict probable | Action suggérée |
+|---|---|---|
+| RTX 3060 / RX 6600 XT ou plus récent, 16 Go de RAM, processeur 6 cœurs | Confortablement au-dessus du minimum | Rien à faire ; mettez simplement à jour vos pilotes |
+| GTX 1080 / RX 5700-XT, 16 Go de RAM, Ryzen 5 3600 | Pile au niveau minimum | Attendez-vous à ajuster les réglages ; envisagez une mise à niveau GPU plus tard |
+| GTX 1660 / RX 580, 16 Go de RAM | Sous le minimum côté GPU | La mise à niveau du GPU est prioritaire |
+| Processeur moderne 6 cœurs mais seulement 8 Go de RAM | Sous le minimum côté mémoire | Ajoutez d'abord un kit de 16 Go — la solution la moins chère |
+| Ancien processeur quatre cœurs (i5-7600K, Ryzen 5 1600) | Sous le minimum côté CPU | Une mise à niveau de la plateforme est nécessaire pour une expérience fluide |
+
+Comme le DLC n'est pas encore sorti, il n'existe aucune donnée fiable sur l'expérience des joueurs. Toute vidéo de « benchmark » que vous verrez avant le 3 décembre relève de la spéculation ; traitez donc les retours de la communauté avec prudence jusqu'à la publication de vrais tests matériels.
+
+## Configuration recommandée et performances : ce qui reste inconnu
+
+Steam ne liste actuellement que les minimums, ce qui laisse de vraies lacunes dans le tableau :
+
+| Question | Statut |
+|---|---|
+| Palier CPU / GPU recommandé | Non publié |
+| Résolution et fréquence d'images ciblées | Non publié |
+| Support du ray tracing ou de l'upscaling (DLSS / FSR / XeSS) | Non publié |
+| Taille exacte du téléchargement au lancement | Non publiée (30 Go d'espace requis) |
+| Note de compatibilité Steam Deck | Non publiée |
+
+L'absence de palier recommandé n'est pas inhabituelle environ cinq semaines avant la sortie — les éditeurs l'ajoutent souvent à l'approche du lancement. Consultez la [page Steam officielle de Cronos: Lazarus](https://store.steampowered.com/app/4768180/Cronos_Lazarus/) pour les mises à jour, car c'est la source faisant autorité en matière de changements de configuration.
+
+Un point que la page du magasin confirme toutefois : le DLC mise sur un combat plus rapide et plus agressif, avec des leurres, une invisibilité temporaire et des affrontements cinématiques à grande échelle contre un poursuivant dédié. Ces systèmes ont tendance à solliciter le processeur, ce qui plaide encore une fois pour ne pas lésiner sur le CPU.
+
+## Liste de vérification avant le lancement
+
+Avant le 3 décembre, parcourez cette liste pour que le jour du lancement se déroule sans accroc :
+
+- **Mettez à jour votre pilote GPU** vers la dernière version Game Ready ou Adrenalin. Les propriétaires d'Arc doivent être particulièrement vigilants.
+- **Vérifiez l'espace libre** — 30 Go pour le DLC, plus le jeu de base, plus une marge pour les correctifs.
+- **Assurez-vous que votre RAM tourne à sa fréquence nominale** en activant XMP ou EXPO dans le BIOS. Beaucoup de systèmes à 16 Go fonctionnent sous-cadencés par défaut.
+- **Vérifiez la marge de votre alimentation** si vous mettez à niveau un GPU pour atteindre le minimum.
+- **Ajoutez le DLC à votre liste de souhaits** pour recevoir une notification dès sa sortie.
+- **Vérifiez que vous possédez le jeu de base** — l'extension nécessite Cronos: The New Dawn.
+
+Si vous montez une configuration neuve autour de ces spécifications, privilégiez d'abord le GPU et 16 Go de RAM, puis un processeur moderne à six cœurs. Cet ordre correspond à la pondération de la configuration requise de Cronos Lazarus.
+
+## FAQ
+
+**Quelle est la configuration requise de Cronos Lazarus ?**
+
+Le minimum officiel demande Windows 10 x64, un Intel Core i5-8400F, i5-8600K ou AMD Ryzen 5 3600, 16 Go de RAM, une GeForce GTX 1080, Radeon RX 5700-XT ou Intel Arc A770, DirectX 12 et 30 Go d'espace de stockage libre.
+
+**Puis-je faire tourner Cronos Lazarus avec 8 Go de RAM ?**
+
+Non, selon les spécifications publiées. Seize gigaoctets sont indiqués comme minimum, et la mémoire est l'une des mises à niveau les moins chères, il vaut donc mieux s'en occuper avant le lancement plutôt qu'après.
+
+**Dois-je posséder Cronos: The New Dawn pour jouer au DLC ?**
+
+Oui. Lazarus est une extension, et la page du magasin indique qu'elle nécessite le jeu de base sur Steam pour être jouée. Prévoyez de l'espace de stockage pour les deux.
+
+**Existe-t-il déjà une configuration recommandée pour Cronos Lazarus ?**
+
+Non. Seul le palier minimum a été publié jusqu'à présent. La configuration recommandée, les fréquences d'images ciblées et le support de l'upscaling n'ont pas été confirmés ; consultez à nouveau la fiche Steam à l'approche de la sortie du 3 décembre 2026.
+
+**Cronos Lazarus tournera-t-il sur un ordinateur portable gaming ?**
+
+Cela dépend du GPU. Un portable doté d'une puce de classe RTX 3060 à pleine puissance et de 16 Go de RAM devrait franchir la barre du minimum, tandis que les modèles fins et légers avec 4 Go ou 6 Go de VRAM n'y parviendront probablement pas. Comparez le GPU de votre portable aux cartes de bureau du tableau ci-dessus, et rappelez-vous que les versions portables sont généralement un ou deux crans plus lentes que leurs équivalents de bureau.

@@ -6,7 +6,17 @@
     "description": "Explore Cronos: Lazarus with gameplay guides, weapons, abilities, enemies, story lore, release details, and platform updates for this survival horror DLC.",
     "legalNotice": "Non-official fan wiki. Cronos: Lazarus is a trademark of Bloober Team and its licensors."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "dlc": "Dlc",
+    "platforms": "Platforms",
+    "mechanics": "Mechanics",
+    "story": "Story",
+    "media": "Media",
+    "community": "Community",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Cronos: Lazarus Wiki - Guides, Weapons & Lore",
@@ -419,7 +429,34 @@
       "secondary": "Official Site · PC, PS5 & Xbox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Cronos Lazarus Guides",
+    "overviewDescription": "Release date, price, platforms, gameplay, story, PC requirements, and review coverage for the Cronos: Lazarus story expansion."
+  },
+  "dlc": {
+    "overviewTitle": "Cronos Lazarus DLC",
+    "overviewDescription": "Release timing, pricing, length, standalone status, and the new Warden combat chapter for Cronos: Lazarus."
+  },
+  "platforms": {
+    "overviewTitle": "Cronos Lazarus Platforms",
+    "overviewDescription": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch 2, Steam, PlayStation Store, and physical edition details for Cronos: Lazarus."
+  },
+  "mechanics": {
+    "overviewTitle": "Cronos Lazarus Mechanics",
+    "overviewDescription": "Combat, survival horror systems, the Warden, the Pathfinder protagonist, and the transformation at the center of Cronos: Lazarus."
+  },
+  "story": {
+    "overviewTitle": "Cronos Lazarus Story",
+    "overviewDescription": "Story trailer analysis, chapter details, main-story connections, and the prequel or sequel question for Cronos: Lazarus."
+  },
+  "media": {
+    "overviewTitle": "Cronos Lazarus Media",
+    "overviewDescription": "Official trailers, gameplay showcases, the Gamescom demo, and extended gameplay footage for Cronos: Lazarus."
+  },
+  "community": {
+    "overviewTitle": "Cronos Lazarus Community",
+    "overviewDescription": "Reddit discussion, news, and wishlist guidance for players following Cronos: Lazarus."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -449,10 +486,10 @@
     "officialDiscord": "Official Bloober Team Discord",
     "officialYoutube": "Official Bloober Team YouTube",
     "vvBuilder": "Official Cronos X (Twitter)",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Weapons & Abilities",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Tier List",
+    "beginnerGuide": "Getting Started",
+    "dlcGuide": "DLC Guide",
+    "platformsGuide": "Platforms",
+    "storyGuide": "Story & Lore",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
