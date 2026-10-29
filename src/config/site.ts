@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@BlooberTeamSA",
     twitter: "https://x.com/CronosNewDawn",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "fr", "es"],
   defaultLocale: "en",
 };

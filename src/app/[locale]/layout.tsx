@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import Script from "next/script";
 import { Inter } from "next/font/google";
 import { hasLocale } from "next-intl";
-import { getMessages, setRequestLocale } from "next-intl/server";
+import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
 import { NextIntlClientProvider } from "next-intl";
 import { notFound } from "next/navigation";
 import { ThemeProvider } from "next-themes";
@@ -20,12 +20,13 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "site" });
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Cronos Lazarus Wiki", template: "%s" },
-    description: siteConfig.description,
+    title: { default: t("name"), template: "%s" },
+    description: t("description"),
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -35,8 +36,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       ],
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, title: "Cronos Lazarus Wiki", description: siteConfig.description, images: [{ url: image, width: 1920, height: 1080, alt: "Cronos: Lazarus key art" }] },
-    twitter: { card: "summary_large_image", title: "Cronos Lazarus Wiki", description: siteConfig.description, images: [image] },
+    openGraph: { type: "website", locale, url: siteUrl, siteName: t("name"), title: t("name"), description: t("description"), images: [{ url: image, width: 1920, height: 1080, alt: "Cronos: Lazarus key art" }] },
+    twitter: { card: "summary_large_image", title: t("name"), description: t("description"), images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }

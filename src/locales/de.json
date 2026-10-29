@@ -1,1 +1,496 @@
-{}
+{
+  "site": {
+    "name": "Cronos: Lazarus Wiki",
+    "shortName": "Cronos: Lazarus",
+    "tagline": "Guides, Waffen, Fähigkeiten & Story-Lore",
+    "description": "Entdecke Cronos: Lazarus mit Gameplay-Guides, Waffen, Fähigkeiten, Gegnern, Story-Lore, Release-Details und Plattform-Updates zu dieser Survival-Horror-Erweiterung.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Cronos: Lazarus ist eine Marke von Bloober Team und seinen Lizenzgebern."
+  },
+  "nav": {
+    "guide": "Ratgeber",
+    "dlc": "DLC",
+    "platforms": "Plattformen",
+    "mechanics": "Mechanik",
+    "story": "Story",
+    "media": "Medien",
+    "community": "Community",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln"
+  },
+  "home": {
+    "meta": {
+      "title": "Cronos: Lazarus Wiki – Guides, Waffen & Story-Lore",
+      "description": "Entdecke Cronos: Lazarus mit Gameplay-Guides, Waffen, Fähigkeiten, Gegnern, Story-Lore, Release-Details und Plattform-Updates zu dieser Survival-Horror-Erweiterung."
+    },
+    "hero": {
+      "eyebrow": "Sci-Fi-Survival-Horror-Action-DLC",
+      "title": "Cronos: Lazarus Wiki",
+      "description": "Entdecke Cronos: Lazarus, die Sci-Fi-Survival-Horror-Erweiterung mit dem Pathfinder, aggressivem Kampf, Teleportation, Ködern, neuen Waffen, Gegnern und Story-Lore.",
+      "stats": [
+        "Release: 3. Dezember 2026",
+        "Plattformen: PC, PS5 & Xbox",
+        "2 neue Fähigkeiten",
+        "Startpreis: 9,99 $"
+      ],
+      "primaryCta": "Offizielle Website · PC, PS5 & Xbox",
+      "secondaryCta": "Gameplay-Teaser ansehen",
+      "tertiaryCta": "Einsteiger-Guide",
+      "videoLabel": "Offizieller Gameplay-Teaser"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise durch Cronos Lazarus",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Lerne die Ausgangslage der Geschichte, die Verwandlung des Pathfinders in den Warden und die wichtigsten Gewohnheiten kennen, die deinen ersten Durchlauf in Gang halten."
+        },
+        {
+          "number": "2",
+          "title": "Kampfgrundlagen",
+          "description": "Erfahre, wie Köder, vorübergehende Unsichtbarkeit und verbessertes Fortbewegen das aggressive Arsenal des Wardens in kontrollierten Druck verwandeln."
+        },
+        {
+          "number": "3",
+          "title": "Waffen & Fähigkeiten",
+          "description": "Zerlege die Pathfinder-Technologie hinter der Mobilität, Täuschung und dem Nahkampf des Wardens."
+        },
+        {
+          "number": "4",
+          "title": "Boss- & Gegnerguide",
+          "description": "Bereite dich mit praktischen Tipps zu Abstand, Abklingzeiten und Gegenmaßnahmen auf den anpassungsfähigen Jäger und cineastische Begegnungen vor."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Beliebte Cronos-Lazarus-Guides",
+      "quickLinks": [
+        "Release-Datum",
+        "Gameplay-Guide",
+        "Warden-Fähigkeiten",
+        "Boss-Guide"
+      ],
+      "cards": [
+        {
+          "badge": "Start",
+          "title": "Einsteiger-Guide",
+          "description": "Lerne den Pathfinder, das Kollektiv und die Verwandlung in den Warden vor deinem ersten Durchlauf kennen.",
+          "href": "/mechanics/cronos-lazarus-becoming-the-warden"
+        },
+        {
+          "badge": "Kern",
+          "title": "Gameplay-Guide",
+          "description": "Meistere den schnelleren Kampfrhythmus, das verbesserte Fortbewegen und den Druck des neuen Jägers.",
+          "href": "/guide/cronos-lazarus-gameplay"
+        },
+        {
+          "badge": "Fähigkeiten",
+          "title": "Warden-Fähigkeiten",
+          "description": "Verstehe Köder, vorübergehende Unsichtbarkeit und Pathfinder-Technologie und erfahre, wann du welches Werkzeug einsetzt.",
+          "href": "/mechanics/cronos-lazarus-warden"
+        },
+        {
+          "badge": "Release",
+          "title": "Release-Datum & Plattformen",
+          "description": "Prüfe den Start am 3. Dezember 2026, die unterstützten Plattformen und das Switch-2-Zeitfenster.",
+          "href": "/guide/cronos-lazarus-release-date"
+        },
+        {
+          "badge": "Story",
+          "title": "Story & Lore",
+          "description": "Folge dem Bruch des Pathfinders mit dem Kollektiv und der verlorenen Essenz im Zentrum der Mission.",
+          "href": "/story/cronos-lazarus-main-story-connection"
+        },
+        {
+          "badge": "PC",
+          "title": "Systemanforderungen",
+          "description": "Vergleiche die Mindest-PC-Anforderungen für Windows, Arbeitsspeicher, Grafik, DirectX und Speicherplatz.",
+          "href": "/guide/cronos-lazarus-system-requirements"
+        },
+        {
+          "badge": "Medien",
+          "title": "Offizieller Trailer",
+          "description": "Analysiere Release-Datum, Warden-Fähigkeiten und Jäger-Szenen aus dem offiziellen Trailer.",
+          "href": "/media/cronos-lazarus-official-trailer"
+        },
+        {
+          "badge": "PS5",
+          "title": "PS5-Release-Guide",
+          "description": "Verfolge die Startdetails für PlayStation 5 und den Release am 3. Dezember.",
+          "href": "/platforms/cronos-lazarus-ps5-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Cronos Lazarus?",
+      "paragraphs": [
+        "Cronos Lazarus ist eine Story-Erweiterung für Cronos: The New Dawn, entwickelt von Bloober Team und PixelAnt Games. Sie führt die Spieler zurück in die Ödnis von New Dawn, als einst loyaler Pathfinder, der sich nun in den Warden verwandelt, im Terminal isoliert und vom Kollektiv abgeschnitten ist, während er versucht, eine verlorene Essenz zu erwecken.",
+        "Die Erweiterung ersetzt den vorsichtigen, präzisionsorientierten Rhythmus des Hauptspiels durch schnelleren, aggressiveren Kampf. Der Warden kann Köder hinterlassen, vorübergehend unsichtbar werden und verbessertes Fortbewegen sowie Pathfinder-Technologie nutzen, während ein unerbittlicher, anpassungsfähiger Jäger ausgesandt wird, um ihn zu beseitigen. Cronos Lazarus erscheint am 3. Dezember 2026 für PC, PlayStation 5 und Xbox Series X|S; eine Nintendo-Switch-2-Version ist für das erste Quartal 2027 geplant."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Bloober Team & PixelAnt Games"
+        },
+        {
+          "label": "Release-Datum",
+          "value": "3. Dezember 2026"
+        },
+        {
+          "label": "Plattformen",
+          "value": "PC, PS5 & Xbox Series X|S"
+        },
+        {
+          "label": "Startpreis",
+          "value": "$9.99"
+        },
+        {
+          "label": "Genre",
+          "value": "Action-Survival-Horror"
+        },
+        {
+          "label": "Hauptspiel",
+          "value": "Cronos: The New Dawn"
+        },
+        {
+          "label": "Altersfreigabe",
+          "value": "ESRB Mature 17+"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Cronos Lazarus Wiki entdecken",
+      "description": "Entdecke acht Cronos-Lazarus-Guides zu Release-Details, Gameplay, Fähigkeiten, Gegnern, Story-Lore, PC-Anforderungen und offiziellen Videos.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Cronos Lazarus: Release-Datum und Plattformen",
+          "description": "Verfolge den Start am 3. Dezember 2026, die unterstützten Plattformen, den Startpreis und das geplante Release-Zeitfenster für Nintendo Switch 2.",
+          "href": "/guide/cronos-lazarus-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Datum",
+              "detail": "Start am 3. Dezember 2026 für PC, PlayStation 5 und Xbox Series X|S."
+            },
+            {
+              "label": "PC",
+              "detail": "Der Steam-Eintrag setzt das Hauptspiel und 30 GB freien Speicherplatz voraus."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Nintendo-Switch-2-Version für das erste Quartal 2027 geplant."
+            },
+            {
+              "label": "Preis",
+              "detail": "Der Startpreis der Story-Erweiterung liegt bei 9,99 $."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Cronos-Lazarus-Gameplay-Guide",
+          "description": "Erfahre, wie die Erweiterung vom vorsichtigen Survival-Horror zu schnellerem, aggressiverem Kampf übergeht, der auf Mobilität und Täuschung setzt.",
+          "href": "/guide/cronos-lazarus-gameplay",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lass den Jäger eine Verfolgung beginnen, bevor du deinen Köder einsetzt."
+            },
+            {
+              "label": "2",
+              "detail": "Setze den Köder ein, während du die Sichtlinie brichst und einen neuen Winkel einnimmst."
+            },
+            {
+              "label": "3",
+              "detail": "Nutze vorübergehende Unsichtbarkeit, um dich seitlich neu zu positionieren, statt dich zurückzuziehen."
+            },
+            {
+              "label": "4",
+              "detail": "Verkette verbessertes Fortbewegen mit dem nächsten Angriff, statt es nur als Wegstrecke zu behandeln."
+            },
+            {
+              "label": "5",
+              "detail": "Wechsle deine Werkzeuge, damit ein anpassungsfähiger Gegner sich nicht auf ein Muster festlegen kann."
+            },
+            {
+              "label": "6",
+              "detail": "Beende den Kampf, bevor die Abklingzeiten aufgebraucht sind, und richte die Arena für die nächste Welle neu ein."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Cronos-Lazarus-Einsteigerguide",
+          "description": "Beginne mit der Verwandlung des Pathfinders, dem Terminal und den Kampfgewohnheiten, die in deinen ersten Stunden als Warden zählen.",
+          "href": "/mechanics/cronos-lazarus-becoming-the-warden",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Schließe Cronos: The New Dawn ab oder kehre dorthin zurück, damit die Geschichte des Wardens und die Bedeutung des Kollektivs klar sind."
+            },
+            {
+              "label": "2",
+              "detail": "Stelle vor dem Release sicher, dass das Hauptspiel installiert ist und mindestens 30 GB frei sind."
+            },
+            {
+              "label": "3",
+              "detail": "Übe Köder, Tarnung und Fortbewegen als eine Kette statt als drei Panikknöpfe."
+            },
+            {
+              "label": "4",
+              "detail": "Bleib gegen den Jäger in Bewegung, wechsle die Taktik und spare eine Abklingzeit für seine späteren Phasen auf."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Cronos Lazarus: Waffen und Fähigkeiten",
+          "description": "Zerlege den Köder, die vorübergehende Unsichtbarkeit, das verbesserte Fortbewegen, die Pathfinder-Technologie und das aggressive Kampfarsenal des Wardens.",
+          "href": "/mechanics/cronos-lazarus-warden",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Köder",
+              "detail": "Hinterlässt ein falsches Ziel, um die Verfolgung zu brechen und die Aufmerksamkeit der Gegner zu teilen."
+            },
+            {
+              "label": "Tarnung",
+              "detail": "Entzieht dich kurz der Wahrnehmung der Gegner, damit du dich neu positionieren oder einen Flankenangriff vorbereiten kannst."
+            },
+            {
+              "label": "Fortbewegung",
+              "detail": "Schafft vertikale und seitliche Distanz und macht Bewegung zu einem Kampfwerkzeug."
+            },
+            {
+              "label": "Technik",
+              "detail": "Pathfinder-exklusive Werkzeuge und Ausrüstung unterstützen härtere Begegnungen und schnelles Lösen aus dem Kampf."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Cronos Lazarus: Gegner und Bosse",
+          "description": "Verstehe den anpassungsfähigen Jäger, seine unerbittliche Verfolgung und die cineastischen Begegnungen, die sich um den Warden zuspitzen.",
+          "href": "/mechanics/cronos-lazarus-survival-horror-gameplay",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Der Verfolger ist unerbittlich, anpassungsfähig, ebenbürtig stark und eigens dafür konstruiert, den Warden aufzuhalten."
+            },
+            {
+              "label": "A",
+              "detail": "Cineastische Begegnungen steigern sich über mehrere Phasen und bestrafen wiederholte Taktiken."
+            },
+            {
+              "label": "B",
+              "detail": "Gewöhnliche Bedrohungen der Ödnis lassen sich mit Unsichtbarkeit und Fortbewegung umgehen oder zurücksetzen."
+            },
+            {
+              "label": "C",
+              "detail": "Beschädigte Räume und enge Korridore belohnen Aufklärung vor dem Kontakt."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Cronos Lazarus: Story und Lore",
+          "description": "Folge dem einst loyalen Pathfinder, seiner Trennung vom Kollektiv, der verlorenen Essenz und dem Lazarus-Protokoll.",
+          "href": "/story/cronos-lazarus-main-story-connection",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Warden",
+              "detail": "Du spielst den Pathfinder während der Verwandlung in den Warden, den du bereits aus dem Hauptspiel kennst."
+            },
+            {
+              "label": "Essenz",
+              "detail": "Seine Wiederbelebungsmission dreht sich um eine verlorene Essenz, die er nicht verblassen lassen will."
+            },
+            {
+              "label": "Jäger",
+              "detail": "Ein neuer Verfolger wird mit einer einzigen Anweisung entsandt: den Warden finden und eliminieren."
+            },
+            {
+              "label": "Protokoll",
+              "detail": "Fragmente aus der Vergangenheit des Wardens zeigen, wie weit er gehen wird, um sich dem Kollektiv zu widersetzen."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Cronos-Lazarus-Systemanforderungen",
+          "description": "Prüfe die Mindest-PC-Spezifikationen für Betriebssystem, Prozessor, Arbeitsspeicher, Grafik, DirectX, Speicherplatz und Audio.",
+          "href": "/guide/cronos-lazarus-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 x64"
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i5-8400F oder i5-8600K oder AMD Ryzen 5 3600"
+            },
+            {
+              "label": "RAM",
+              "detail": "16 GB RAM"
+            },
+            {
+              "label": "GPU",
+              "detail": "NVIDIA GeForce GTX 1080, AMD Radeon RX 5700-XT oder Intel Arc A770"
+            },
+            {
+              "label": "DX",
+              "detail": "DirectX 12"
+            },
+            {
+              "label": "Speicher",
+              "detail": "30 GB freier Speicherplatz"
+            },
+            {
+              "label": "Audio",
+              "detail": "Windows-kompatible Audiogeräte"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Cronos Lazarus: Trailer und Gameplay-Videos",
+          "description": "Sammlung offizieller Reveal-, Story-, Gameplay- und Gamescom-Aufnahmen mit kompakten Analysen der Warden-Fähigkeiten und des neuen Jägers.",
+          "href": "/media/cronos-lazarus-official-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reveal",
+              "detail": "Der erste Teaser stellt den Warden, den Jäger und den aggressiven Ton der Erweiterung vor."
+            },
+            {
+              "label": "Story",
+              "detail": "Der Story-Trailer führt die verlorene Essenz, das Kollektiv und den Release am 3. Dezember ein."
+            },
+            {
+              "label": "Gameplay",
+              "detail": "Kampfaufnahmen zeigen Teleportation, Schläge, Ausweichsprints und das Verketten von Fähigkeiten."
+            },
+            {
+              "label": "Gamescom",
+              "detail": "Die erweiterte Gamescom-Berichterstattung hebt das schnellere Tempo und cineastische Verfolgungsbegegnungen hervor."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Cronos-Lazarus-FAQ",
+      "description": "Kurze Antworten zu Cronos Lazarus, den Fähigkeiten des Wardens, Release-Details und der Verbindung der Erweiterung zu Cronos: The New Dawn.",
+      "items": [
+        {
+          "question": "Was ist Cronos Lazarus?",
+          "answer": "Cronos Lazarus ist eine Story-Erweiterung für Cronos: The New Dawn. Du spielst den einst loyalen Pathfinder, der sich in den Warden verwandelt, im Terminal isoliert und vom Kollektiv abgeschnitten ist."
+        },
+        {
+          "question": "Wann erscheint Cronos Lazarus?",
+          "answer": "Cronos Lazarus erscheint am 3. Dezember 2026 für PC, PlayStation 5 und Xbox Series X|S. Eine Nintendo-Switch-2-Version ist für das erste Quartal 2027 geplant."
+        },
+        {
+          "question": "Brauche ich Cronos: The New Dawn, um Cronos Lazarus zu spielen?",
+          "answer": "Ja. Cronos Lazarus ist ein Download-Inhalt und setzt das Hauptspiel voraus. Die Geschichte des Wardens wird direkt fortgesetzt; wer The New Dawn zuerst abschließt, versteht die Ereignisse der Erweiterung daher im vollen Kontext."
+        },
+        {
+          "question": "Welche Fähigkeiten nutzt der Warden in Cronos Lazarus?",
+          "answer": "Der Warden kann einen Köder hinterlassen, um Gegner in die Irre zu führen, vorübergehend unsichtbar werden und verbessertes Fortbewegen nutzen. Pathfinder-exklusive Werkzeuge und ein schnelleres Kampfarsenal unterstützen diese Mobilitäts- und Täuschungsoptionen."
+        },
+        {
+          "question": "Wer jagt den Warden in Cronos Lazarus?",
+          "answer": "Ein neuer Verfolger wurde eigens dafür konstruiert, den Warden aufzuhalten. Er ist unerbittlich, hochgradig anpassungsfähig und stark genug, um mit ihm mitzuhalten; die Begegnungen steigern sich zu großen cineastischen Kämpfen."
+        },
+        {
+          "question": "Wie verändert Cronos Lazarus den Kampf?",
+          "answer": "Cronos Lazarus ersetzt den vorsichtigen, präzisionsorientierten Rhythmus des Hauptspiels durch schnelleren, aggressiveren Kampf. Köder, Unsichtbarkeit und Fortbewegung sollen verkettet werden, damit der Warden die Distanz kontrolliert und Kämpfe beendet, bevor sich der Jäger anpasst."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Cronos: Lazarus zu überleben?",
+      "description": "Plane deine Pathfinder-Ausrüstung, meistere Teleportation und Köder und entdecke mit unseren kostenlosen Community-Guides jede Waffe, jeden Gegner und jeden Story-Moment.",
+      "primary": "Lies den Einsteiger-Guide",
+      "secondary": "Offizielle Website · PC, PS5 & Xbox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Cronos-Lazarus-Guides",
+    "overviewDescription": "Release-Datum, Preis, Plattformen, Gameplay, Story, PC-Anforderungen und Tests zur Story-Erweiterung Cronos: Lazarus."
+  },
+  "dlc": {
+    "overviewTitle": "Cronos Lazarus DLC",
+    "overviewDescription": "Release-Zeitpunkt, Preis, Umfang, Standalone-Status und das neue Warden-Kampfkapitel für Cronos: Lazarus."
+  },
+  "platforms": {
+    "overviewTitle": "Cronos-Lazarus-Plattformen",
+    "overviewDescription": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch 2, Steam, PlayStation Store und Details zur physischen Edition von Cronos: Lazarus."
+  },
+  "mechanics": {
+    "overviewTitle": "Cronos-Lazarus-Mechaniken",
+    "overviewDescription": "Kampf, Survival-Horror-Systeme, der Warden, der Pathfinder-Protagonist und die Verwandlung im Zentrum von Cronos: Lazarus."
+  },
+  "story": {
+    "overviewTitle": "Cronos-Lazarus-Story",
+    "overviewDescription": "Analyse des Story-Trailers, Kapitel-Details, Verbindungen zur Hauptgeschichte und die Frage nach Prequel oder Sequel zu Cronos: Lazarus."
+  },
+  "media": {
+    "overviewTitle": "Cronos-Lazarus-Medien",
+    "overviewDescription": "Offizielle Trailer, Gameplay-Shows, die Gamescom-Demo und erweitertes Gameplay-Material zu Cronos: Lazarus."
+  },
+  "community": {
+    "overviewTitle": "Cronos-Lazarus-Community",
+    "overviewDescription": "Reddit-Diskussionen, Neuigkeiten und Wishlist-Hinweise für Spieler, die Cronos: Lazarus verfolgen."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Ähnliche Beiträge",
+    "relatedGuides": "Ähnliche Guides",
+    "readMore": "Weiterlesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Cronos: Lazarus Wiki",
+    "about": "Das Cronos: Lazarus Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub mit Waffen, Fähigkeiten, Gegnern, Story-Lore, Release-Details und Gameplay-Strategien für PC, PS5 und Xbox Series X|S.",
+    "quickLinks": "Schnellzugriff",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Cronos: Lazarus Wiki. Nicht mit Bloober Team, PixelAnt Games oder den Publishern des Spiels verbunden.",
+    "description": "Sci-Fi-Survival-Horror-DLC für PC, PS5 und Xbox Series X|S. Erscheint am 3. Dezember 2026.",
+    "playGame": "Offizielle Website · PC, PS5 & Xbox",
+    "officialDiscord": "Offizieller Bloober-Team-Discord",
+    "officialYoutube": "Offizieller Bloober-Team-YouTube-Kanal",
+    "vvBuilder": "Offizielles Cronos-X-Profil (Twitter)",
+    "beginnerGuide": "Erste Schritte",
+    "dlcGuide": "DLC-Guide",
+    "platformsGuide": "Plattformen",
+    "storyGuide": "Story & Lore",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
