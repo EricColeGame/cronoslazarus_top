@@ -3,9 +3,10 @@ import { LegalPage } from "@/components/legal-page";
 export default function TermsOfServicePage() {
   return (
     <LegalPage title="Terms of Service">
-      <p>This site is an independent fan-made guide hub. Content is provided for informational and entertainment purposes only.</p>
+      <p>Cronos: Lazarus Wiki at cronoslazarus.top is an independent fan-made guide hub. Content is provided for informational and entertainment purposes only.</p>
       <p>Game systems, codes, drops, and update details may change without notice. Always verify important information in-game or through official channels.</p>
       <p>By using this site, you agree not to misuse it, attempt unauthorized access, or present this fan wiki as an official Cronos: Lazarus property.</p>
+      <p>Questions about these terms may be sent to <a className="font-semibold text-[hsl(var(--nav-theme))] hover:underline" href="mailto:support@cronoslazarus.top">support@cronoslazarus.top</a>.</p>
     </LegalPage>
   );
 }

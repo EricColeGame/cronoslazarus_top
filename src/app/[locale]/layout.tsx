@@ -24,8 +24,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Cronos: Lazarus Wiki", template: "%s" },
-    description: "Explore Cronos: Lazarus with gameplay guides, weapons, abilities, enemy strategies, story lore, release information, and platform updates.",
+    title: { default: "Cronos Lazarus Wiki", template: "%s" },
+    description: siteConfig.description,
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -35,8 +35,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       ],
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, title: "Cronos Lazarus Wiki", description: siteConfig.description, images: [{ url: image, width: 1920, height: 1080, alt: "Cronos: Lazarus key art" }] },
+    twitter: { card: "summary_large_image", title: "Cronos Lazarus Wiki", description: siteConfig.description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -53,6 +53,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     url: siteUrl,
     logo: `${siteUrl}/android-chrome-512x512.png`,
     image: `${siteUrl}/images/hero.webp`,
+    sameAs: [siteConfig.gameUrl, siteConfig.social?.discord, siteConfig.social?.youtube, siteConfig.social?.twitter].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;

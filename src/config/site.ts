@@ -23,9 +23,9 @@ export const siteConfig: SiteConfig = {
   shortName: "Cronos: Lazarus",
   logoText: "C",
   tagline: "Guides, Weapons, Abilities & Story Lore",
-  description: "Explore Cronos: Lazarus with gameplay guides, weapon details, abilities, enemy strategies, story lore, release information, and platform updates for this sci-fi survival horror expansion.",
+  description: "Explore Cronos: Lazarus with gameplay guides, weapons, abilities, enemies, story lore, release details, and platform updates for this survival horror DLC.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://cronoslazarus.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://cronoslazarus.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@cronoslazarus.top",
   gameUrl: "https://cronosnewdawn.com/lazarus",
   heroVideoId: "v77GGoilyCA",
   social: {
