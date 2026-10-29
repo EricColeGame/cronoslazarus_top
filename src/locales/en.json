@@ -34,293 +34,381 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your Cronos: Lazarus Journey",
+      "title": "Your Cronos Lazarus Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the story setup, the Pathfinder's transformation into the Warden, and the core habits that keep your first run moving."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Combat Basics",
+          "description": "See how decoys, temporary invisibility, and enhanced traversal turn the Warden's aggressive kit into controlled pressure."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Weapons & Abilities",
+          "description": "Break down the Pathfinder technology behind the Warden's mobility, misdirection, and close-range combat."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Cronos: Lazarus."
+          "title": "Boss & Enemy Guide",
+          "description": "Prepare for the adaptive hunter and cinematic encounters with practical spacing, cooldown, and counterplay advice."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Cronos Lazarus Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Release Date",
+        "Gameplay Guide",
+        "Warden Abilities",
+        "Boss Guide"
       ],
       "cards": [
         {
-          "badge": "Beginner",
+          "badge": "Start",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Meet the Pathfinder, the Collective, and the Warden transformation before your first run.",
+          "href": "/mechanics/cronos-lazarus-becoming-the-warden"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Core",
+          "title": "Gameplay Guide",
+          "description": "Master the faster combat loop, enhanced traversal, and the new hunter's pressure.",
+          "href": "/guide/cronos-lazarus-gameplay"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Abilities",
+          "title": "Warden Abilities",
+          "description": "Understand decoys, temporary invisibility, Pathfinder technology, and when to spend each tool.",
+          "href": "/mechanics/cronos-lazarus-warden"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Release",
+          "title": "Release Date & Platforms",
+          "description": "Check the December 3, 2026 launch, supported platforms, and the Switch 2 window.",
+          "href": "/guide/cronos-lazarus-release-date"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Story",
+          "title": "Story & Lore",
+          "description": "Follow the Pathfinder's break from the Collective and the lost Essence at the center of the mission.",
+          "href": "/story/cronos-lazarus-main-story-connection"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "PC",
+          "title": "System Requirements",
+          "description": "Compare the minimum PC specs for Windows, memory, graphics, DirectX, and storage.",
+          "href": "/guide/cronos-lazarus-system-requirements"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Media",
+          "title": "Official Trailer",
+          "description": "Break down the release date, Warden abilities, and hunter footage shown in the official trailer.",
+          "href": "/media/cronos-lazarus-official-trailer"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "PS5",
+          "title": "PS5 Release Guide",
+          "description": "Track the PlayStation 5 launch details and the December 3 release date.",
+          "href": "/platforms/cronos-lazarus-ps5-release-date"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is Cronos: Lazarus?",
+      "title": "What is Cronos Lazarus?",
       "paragraphs": [
-        "Cronos: Lazarus is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Cronos Lazarus is a story expansion for Cronos: The New Dawn developed by Bloober Team and PixelAnt Games. It returns players to the wastelands of New Dawn as the once-loyal Pathfinder, now transforming into the Warden, isolated in the Terminal and severed from the Collective as he tries to awaken a lost Essence.",
+        "The expansion replaces the base game's cautious, precision-first rhythm with faster, more aggressive combat. The Warden can leave decoys, turn temporarily invisible, and use enhanced traversal and Pathfinder technology while a relentless, adaptive hunter is sent to eliminate him. Cronos Lazarus launches December 3, 2026 on PC, PlayStation 5, and Xbox Series X|S, with a Nintendo Switch 2 release planned for the first quarter of 2027."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Bloober Team & PixelAnt Games"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Release Date",
+          "value": "December 3, 2026"
+        },
+        {
+          "label": "Platforms",
+          "value": "PC, PS5 & Xbox Series X|S"
+        },
+        {
+          "label": "Launch Price",
+          "value": "$9.99"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Action Survival Horror"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Base Game",
+          "value": "Cronos: The New Dawn"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Rating",
+          "value": "ESRB Mature 17+"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Cronos: Lazarus Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Cronos Lazarus Wiki",
+      "description": "Explore eight Cronos Lazarus guides covering release details, gameplay, abilities, enemies, story lore, PC requirements, and official videos.",
       "modules": [
         {
           "order": 1,
-          "name": "Cronos: Lazarus Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/Cronos: Lazarus-codes",
-          "displayType": "code-box",
+          "name": "Cronos Lazarus Release Date and Platforms",
+          "description": "Track the December 3, 2026 launch, supported platforms, launch price, and the planned Nintendo Switch 2 release window.",
+          "href": "/guide/cronos-lazarus-release-date",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Date",
+              "detail": "December 3, 2026 launch across PC, PlayStation 5, and Xbox Series X|S."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "PC",
+              "detail": "Steam listing requires the base game and 30 GB of available storage."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Switch 2",
+              "detail": "Nintendo Switch 2 version planned for the first quarter of 2027."
+            },
+            {
+              "label": "Price",
+              "detail": "Launch price listed at $9.99 for the story expansion."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/Cronos: Lazarus-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Cronos Lazarus Gameplay Guide",
+          "description": "Learn how the expansion shifts from cautious survival horror to faster, more aggressive combat built around mobility and misdirection.",
+          "href": "/guide/cronos-lazarus-gameplay",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Let the hunter commit to a pursuit before spending your decoy."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Deploy the decoy as you break line of sight and move to a new angle."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Use temporary invisibility to reposition laterally rather than retreating."
+            },
+            {
+              "label": "4",
+              "detail": "Chain enhanced traversal into the next attack instead of treating it as travel."
+            },
+            {
+              "label": "5",
+              "detail": "Rotate your tools so an adaptive enemy cannot lock onto one pattern."
+            },
+            {
+              "label": "6",
+              "detail": "End the fight before cooldowns run dry, then reset the arena for the next wave."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/Cronos: Lazarus-tier-list",
-          "displayType": "tier-grid",
+          "name": "Cronos Lazarus Beginner Guide",
+          "description": "Start with the Pathfinder's transformation, the Terminal, and the combat habits that matter during your first hours as the Warden.",
+          "href": "/mechanics/cronos-lazarus-becoming-the-warden",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Finish or revisit Cronos: The New Dawn so the Warden's history and the Collective's stakes are clear."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Confirm the base game is installed and free at least 30 GB before launch."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Practice decoy, cloak, and traversal as one chain instead of three panic buttons."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Keep moving against the hunter, rotate tactics, and save a cooldown for its later phases."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/Cronos: Lazarus-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Cronos Lazarus Weapons and Abilities",
+          "description": "Break down the Warden's decoy, temporary invisibility, enhanced traversal, Pathfinder technology, and aggressive combat kit.",
+          "href": "/mechanics/cronos-lazarus-warden",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Decoy",
+              "detail": "Leaves a false target behind you to break pursuit and split enemy attention."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Cloak",
+              "detail": "Briefly removes you from enemy awareness so you can reposition or set up a flank."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Traversal",
+              "detail": "Creates vertical and lateral separation, turning movement into a combat tool."
+            },
+            {
+              "label": "Tech",
+              "detail": "Pathfinder-reserved tools and equipment support harsher encounters and fast disengages."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/Cronos: Lazarus-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Cronos Lazarus Enemies and Bosses",
+          "description": "Understand the adaptive hunter, its relentless pursuit, and the cinematic encounters that escalate around the Warden.",
+          "href": "/mechanics/cronos-lazarus-survival-horror-gameplay",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "The Pursuer is relentless, adaptive, strength-matching, and engineered specifically to stop the Warden."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Cinematic encounters escalate across multiple phases and punish repeated tactics."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Standard wasteland threats can be bypassed or reset with invisibility and traversal."
+            },
+            {
+              "label": "C",
+              "detail": "Compromised spaces and tight corridors reward scouting before contact."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/Cronos: Lazarus-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Cronos Lazarus Story and Lore",
+          "description": "Follow the once-loyal Pathfinder, his severance from the Collective, the lost Essence, and the Lazarus Protocol.",
+          "href": "/story/cronos-lazarus-main-story-connection",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Warden",
+              "detail": "You play the Pathfinder during the transformation into the Warden already known from the base game."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Essence",
+              "detail": "His revival mission centers on a lost Essence he refuses to let fade."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Hunter",
+              "detail": "A new pursuer is deployed with one directive: find and eliminate the Warden."
+            },
+            {
+              "label": "Protocol",
+              "detail": "Fragments of the Warden's past reveal how far he will go to defy the Collective."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Cronos Lazarus System Requirements",
+          "description": "Check the minimum PC specifications for operating system, processor, memory, graphics, DirectX, storage, and audio.",
+          "href": "/guide/cronos-lazarus-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 x64"
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i5-8400F or i5-8600K, or AMD Ryzen 5 3600"
+            },
+            {
+              "label": "RAM",
+              "detail": "16 GB RAM"
+            },
+            {
+              "label": "GPU",
+              "detail": "NVIDIA GeForce GTX 1080, AMD Radeon RX 5700-XT, or Intel Arc A770"
+            },
+            {
+              "label": "DX",
+              "detail": "DirectX 12"
+            },
+            {
+              "label": "Storage",
+              "detail": "30 GB available space"
+            },
+            {
+              "label": "Audio",
+              "detail": "Windows-compatible audio device"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Cronos Lazarus Trailers and Gameplay Videos",
+          "description": "Collect official reveal, story, gameplay, and Gamescom footage with concise breakdowns of the Warden's abilities and the new hunter.",
+          "href": "/media/cronos-lazarus-official-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reveal",
+              "detail": "The first teaser introduces the Warden, the hunter, and the expansion's aggressive tone."
+            },
+            {
+              "label": "Story",
+              "detail": "The story trailer sets up the lost Essence, the Collective, and the December 3 release date."
+            },
+            {
+              "label": "Gameplay",
+              "detail": "Combat footage shows teleportation, strikes, evasive bursts, and ability chaining."
+            },
+            {
+              "label": "Gamescom",
+              "detail": "Extended Gamescom coverage highlights the faster pacing and cinematic pursuit encounters."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Cronos: Lazarus.",
+      "title": "Cronos Lazarus FAQ",
+      "description": "Quick answers about Cronos Lazarus, the Warden's abilities, release details, and how the expansion connects to Cronos: The New Dawn.",
       "items": [
         {
-          "question": "What is Cronos: Lazarus?",
-          "answer": "Cronos: Lazarus is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Cronos Lazarus?",
+          "answer": "Cronos Lazarus is a story expansion for Cronos: The New Dawn. You play the once-loyal Pathfinder as he transforms into the Warden, isolated in the Terminal and severed from the Collective."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When does Cronos Lazarus release?",
+          "answer": "Cronos Lazarus launches on December 3, 2026 for PC, PlayStation 5, and Xbox Series X|S. A Nintendo Switch 2 version is planned for the first quarter of 2027."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Do I need Cronos: The New Dawn to play Cronos Lazarus?",
+          "answer": "Yes. Cronos Lazarus is downloadable content and requires the base game. It continues the Warden's story directly, so finishing The New Dawn first gives the expansion's events their full context."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What abilities does the Warden use in Cronos Lazarus?",
+          "answer": "The Warden can leave a decoy to misdirect enemies, become temporarily invisible, and use enhanced traversal. Pathfinder-reserved tools and a faster combat kit support those mobility and misdirection options."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Who is hunting the Warden in Cronos Lazarus?",
+          "answer": "A new pursuer is engineered specifically to stop the Warden. It is relentless, highly adaptive, and strong enough to match him, with encounters that escalate into large-scale cinematic fights."
+        },
+        {
+          "question": "How does Cronos Lazarus change combat?",
+          "answer": "Cronos Lazarus replaces the base game's cautious, precision-first rhythm with faster, more aggressive combat. Decoys, invisibility, and traversal are meant to be chained so the Warden controls distance and ends fights before the hunter adapts."
         }
       ]
     },
